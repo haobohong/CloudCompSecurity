@@ -1,4 +1,0 @@
-DB:
-我要理解DB
-理解 HTML CSS 寫login(盡量 
-express js
